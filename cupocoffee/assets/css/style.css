@@ -54,8 +54,9 @@ border-bottom-right-radius: 20px;
 	border-top-left-radius: 60px;
 	border-bottom-left-radius: 40px;
 	font-size: 1em;
-	padding:5px 5px 5px 5px;
+	padding:5px 10px 5px 5px;
 	margin-bottom:1em;
+	min-height:250px;
 }
 .container .row .span11 .row .span8 p {
 	padding-left: 1em;
